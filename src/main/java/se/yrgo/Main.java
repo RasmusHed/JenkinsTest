@@ -16,5 +16,6 @@ public class Main {
             System.out.println("RASMUS WAS HERE AGAIN!!!");
         }
         System.out.println("rwh");
+        System.out.println("rwh");
     }
 }
