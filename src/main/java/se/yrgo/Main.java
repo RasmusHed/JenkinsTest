@@ -21,5 +21,6 @@ public class Main {
         System.out.println("rwh");
 	System.out.println("send me fucking main");
         System.out.println("PLEASE WORK!!!");
+        System.out.println("for gods sake");
     }
 }
