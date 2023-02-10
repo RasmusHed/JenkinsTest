@@ -15,5 +15,6 @@ public class Main {
         for (int i = 0; i < 100; i++) {
             System.out.println("RASMUS WAS HERE AGAIN!!!");
         }
+        System.out.println("rwh");
     }
 }
