@@ -12,5 +12,8 @@ public class Main {
         System.out.print("\nYou smell like ");
         System.out.print(hello.giveMeASmell(ThreadLocalRandom.current().nextInt(10)));
         System.out.print(" today, good sir!");
+        for (int i = 0; i < 100; i++) {
+            System.out.println("RASMUS WAS HERE AGAIN!!!");
+        }
     }
 }
