@@ -6,9 +6,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("knut was here");
 	System.out.println("david was here");
-<<<<<<< HEAD
 	System.out.println("and here also");
-=======
+
         System.out.println("rasmus was here");
 
         odourGenerator hello = new odourGenerator();
@@ -21,6 +20,5 @@ public class Main {
         System.out.println("rwh");
         System.out.println("rwh");
 	System.out.println("send me fucking main");
->>>>>>> e164e17d544340306d4f1d134c4ace6637614f44
     }
 }
